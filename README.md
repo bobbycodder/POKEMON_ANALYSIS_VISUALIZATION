@@ -1,2 +1,2 @@
 # POKEMON_ANALYSIS_VISUALIZATION
-LOL
+I've done all the analysis and visualization
